@@ -20,5 +20,8 @@
   "homepage": "https://github.com/jenniferafelton/Chatterbox_App#readme",
   "devDependencies": {
     "nodemon": "^2.0.6"
+  },
+  "dependencies": {
+    "ws": "^7.4.0"
   }
 }
