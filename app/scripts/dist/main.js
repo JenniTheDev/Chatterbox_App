@@ -1,1 +1,0 @@
-console.error("Error: Plugin/Preset files are not allowed to export objects, only functions. In C:\\Users\\jenni\\Documents\\FrontEndWeb\\Chatterbox_App\\node_modules\\babel-preset-es2015\\lib\\index.js while parsing file: C:\\Users\\jenni\\Documents\\FrontEndWeb\\Chatterbox_App\\app\\scripts\\src\\main.js");
